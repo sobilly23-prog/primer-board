@@ -66,7 +66,7 @@ The template's Initial Setup section has the full list. The big ones:
 ## Credits
 
 - Made by **[Billy So](https://www.figma.com/@billyso)**.
-- Inspired by Jake Albaugh's Config 2026 talk, [Figma deep dive: Agentic workflows and the MCP](https://www.youtube.com/watch?v=D5WUW9X_-L0). Thanks to Sabrina Chan for sharing it.
+- Inspired by Jake Albaugh's Config 2026 talk, [Figma deep dive: Agentic workflows and the MCP](https://www.youtube.com/watch?v=D5WUW9X_-L0). Thanks to [Sabrina Chan](https://www.linkedin.com/in/sabrinacly/) for sharing it.
 - "Do the fun parts yourself" comes from Adir SL, [Battling AI fatigue as a designer and developer](https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802).
 
 ## License
