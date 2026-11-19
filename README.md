@@ -2,6 +2,8 @@
 
 **A FigJam context board for your project, and an AI thought partner that reads it with you.**
 
+👉 **Get the board:** [Context Organization Template + Primer Skill on Figma Community](https://www.figma.com/community/file/1705300120839082166/context-organization-template-primer-skill)
+
 Design projects end up scattered: a PRD in one tool, tickets in another, decisions in a chat thread, half-formed concepts in your head. The **Context Organization Template** puts all of it on one FigJam board, built for people first. Your PM, your engineers, and anyone reviewing the work can read it in a few minutes.
 
 **PRIMER** is the second reader. It's a single instruction file (`SKILL.md`) you add to the AI tool you already use. It reads the board and the docs it links to, then:
@@ -34,7 +36,7 @@ Every area has yellow **Tips** and a gray **Examples** section with editable exa
 
 ## Get started
 
-1. **Duplicate the FigJam template**: [Context Organization Template](<!-- TODO: Figma Community link -->)
+1. **Duplicate the FigJam template**: [Context Organization Template + Primer Skill](https://www.figma.com/community/file/1705300120839082166/context-organization-template-primer-skill) on Figma Community
 2. **Add PRIMER to your AI tool** (see below).
 3. **Connect Figma** to your AI tool through [Figma's MCP server](https://developers.figma.com/docs/figma-mcp-server/).
 4. Say **"Set up PRIMER for me"**. It asks five quick questions about how you like to be briefed, and remembers the answers.
